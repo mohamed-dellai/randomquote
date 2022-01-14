@@ -1,5 +1,5 @@
 
-import {animated,useSpring,useTransition} from 'react-spring';
+import {animated,useTransition} from 'react-spring';
 import React from 'react';
 import {useState} from 'react';
 import data from './data.js'
